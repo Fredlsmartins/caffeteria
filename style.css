@@ -1,3 +1,4 @@
+        /* cafeteria */
 *{
     margin: 0;
     padding: 0;
@@ -84,6 +85,7 @@
     margin:20px;
     font-size: 25px;
 }
+
 
 #box-icone span {
     color: #ff8c00;
